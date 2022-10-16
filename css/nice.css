@@ -1,0 +1,29 @@
+html{
+    color: white;
+    background:url("../images/1.jpg") no-repeat center fixed;
+    background-color: black;
+    text-align: center;
+}
+p{
+    line-height: 1;
+    letter-spacing: 1px;
+    margin: 3px;
+    padding: 10px 5px;
+    font-size: 30px;
+}
+h1{
+    margin: 10px;
+    text-shadow: 3px 2px 1.5px #a595ed;
+    font-size: 60px;
+    font-family: 'Megrim', cursive;
+}
+h2{
+    margin: 2px 0;
+    font-family: 'Megrim', cursive;
+    font-size: 40px;
+}
+img{
+    width: 1400px;
+    margin-left: 0;
+    padding: 0;
+}
